@@ -1,0 +1,6 @@
+C:\Users\Ali\Desktop\OrdinaryInjector\bin\Debug\OrdinaryInjector.exe
+C:\Users\Ali\Desktop\OrdinaryInjector\bin\Debug\OrdinaryInjector.pdb
+C:\Users\Ali\Desktop\OrdinaryInjector\obj\Debug\OrdinaryInjector.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\OrdinaryInjector\obj\Debug\OrdinaryInjector.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\OrdinaryInjector\obj\Debug\OrdinaryInjector.exe
+C:\Users\Ali\Desktop\OrdinaryInjector\obj\Debug\OrdinaryInjector.pdb
